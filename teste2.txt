@@ -6,3 +6,5 @@ Funcionalidade
 verificação 1
 
 verificação 2
+
+verificação 3
